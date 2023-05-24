@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrobertmathers
+- 👋 Hi, I’m John Robert C. Capistrano
 - 👀 I’m interested in Software Development especially Web Development
 - 🌱 I’m currently learning Go Language, Javascript and VueJS
 
